@@ -1,0 +1,24 @@
+[theme]
+base = "dark"
+primaryColor = "#2fb57a"
+backgroundColor = "#07110d"
+secondaryBackgroundColor = "#10211a"
+textColor = "#e7efea"
+linkColor = "#5fd6a0"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFont = "Cormorant Garamond:https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&display=swap"
+headingFontWeights = [600, 600, 600, 600, 600, 600]
+baseRadius = "12px"
+borderColor = "#1f3b2e"
+dataframeHeaderBackgroundColor = "#132a20"
+showWidgetBorder = true
+showSidebarBorder = true
+chartCategoricalColors = ["#3ccf8e", "#c7d0cb", "#4aa3df", "#d4b25f"]
+
+[theme.sidebar]
+backgroundColor = "#081a12"
+secondaryBackgroundColor = "#0f241a"
+borderColor = "#1a3528"
+
+[browser]
+gatherUsageStats = false
